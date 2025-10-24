@@ -1,5 +1,7 @@
 # Chest-CTscan-Image-Classification
 
+**Data Source:** Chest CT-Scan images Dataset, Kaggle: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+
 The transfer learning technology was used to build a model of convolutional neural networks for the purpose of classifying three types of cancer (Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma) on CT-Scan images.
 The work consists of two parts:
 * Building a CNN model with several convolutional layers and max-pooling layers.
